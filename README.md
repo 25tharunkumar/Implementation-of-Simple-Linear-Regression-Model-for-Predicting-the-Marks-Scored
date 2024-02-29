@@ -61,20 +61,28 @@ print("RMSE= ",rmse)
 ```
 ## Output:
 ### Dataset
-![output](./images/dataset.png)
+![image](https://github.com/25tharunkumar/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/123470785/0ebb8725-8bd1-4930-9239-c9300576507b)
+
 ### Head Values
-![output](./images/head.png)
+![image](https://github.com/25tharunkumar/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/123470785/250f810c-4957-4893-b8e3-f1591ca89d41)
+
 ### Tail Values
-![output](./images/tail.png)
+![image](https://github.com/25tharunkumar/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/123470785/47957d74-1438-467a-a9eb-dab83711fc11)
+
 ### X and Y values
-![output](./images/xyvalues.png)
+![image](https://github.com/25tharunkumar/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/123470785/10f6fb22-c947-4e55-a604-c0c85ab481bf)
+
 ### Predication values of X and Y
-![output](./images/predict%20.png)
+![image](https://github.com/25tharunkumar/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/123470785/ab12a1b3-eb4d-4a39-b034-70ae0f01f32f)
+
 ### MSE,MAE and RMSE
-![output](./images/values.png)
+![image](https://github.com/25tharunkumar/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/123470785/2896150f-33df-4e76-b383-8f46d30327a6)
+
 ### Training Set
-![output](./images/train.png)
+![image](https://github.com/25tharunkumar/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/123470785/f07ae01c-1b82-4080-a69c-b43aa7f6143d)
+
 ### Testing Set
-![output](./images/test.png)
+![image](https://github.com/25tharunkumar/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/123470785/3b921c54-73c9-45a2-b951-802077d2efd2)
+
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
